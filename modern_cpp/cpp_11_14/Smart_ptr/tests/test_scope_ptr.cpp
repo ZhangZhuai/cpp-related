@@ -1,4 +1,4 @@
-#include "scoped_pointer.h"
+#include "../scoped_pointer.hpp"
 #include "../RAII/Shape.h"
 
 #include <iostream>

@@ -1,4 +1,4 @@
-#include "../unique_pointer.h"
+#include "../unique_pointer.hpp"
 #include "../../RAII/Shape.h"
 
 #include <iostream>
